@@ -10,7 +10,7 @@ I am Berwyn Izzut Taghyir 🧑‍🎓
 
 A Mathematics student with a strong interest in Data Science, Machine Learning, and teaching. Skilled in data 
 analysis, statistical modeling, and predictive analytics. Passionate about leveraging data-driven solutions to 
-<br>support decision-making and problem-solving. Eager to learn, teach, and collaborate on projects related to data 
+support decision-making and problem-solving. Eager to learn, teach, and collaborate on projects related to data 
 science, machine learning, and education.
 
 ### 💻 Tech Stack:
@@ -43,8 +43,8 @@ science, machine learning, and education.
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wynnzzz&hide=stars&count_private=true&show_icons=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wynnzzz&layout=compact&hide=vue,php" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Wynnzzz&hide=stars&count_private=true&show_icons=true" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wynnzzz&layout=compact&hide=vue,php" />
   </a>
 </div>
 
