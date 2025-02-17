@@ -41,9 +41,10 @@ science, machine learning, and education.
 
 ## 📈 Github Stats
 
-<div align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wynnzzz&hide=stars&count_private=true&show_icons=true" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wynnzzz&layout=compact&hide=vue,php" />
   </a>
 </div>
+
