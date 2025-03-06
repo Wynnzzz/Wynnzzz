@@ -44,7 +44,7 @@ science, machine learning, and education.
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wynnzzz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wynnzzz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wynnzzz&layout=compact&langs_count=8&theme=algolia" />
   </a>
 </div>
 
